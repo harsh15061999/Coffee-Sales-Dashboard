@@ -12,7 +12,9 @@ Interactive Dashboard: An interactive dashboard was developed, incorporating piv
 
 Project Outcomes:
 
-The Coffee Shop Dashboard project provided critical insights into sales, customer behavior, and product trends across three countries, empowering stakeholders to make data-driven decisions and drive business growth. Key outcomes included:
+The Coffee Shop Dashboard project provided critical insights into sales, customer behavior, and product trends across three countries, empowering stakeholders to make data-driven decisions and drive business growth. 
+
+Key outcomes included:
 Enhanced Sales Intelligence: The project delivered detailed analysis of sales performance, enabling the identification of opportunities for growth and optimization.
 Customer Behavior Insights: The analysis provided valuable insights into customer behavior, including purchasing patterns and preferences.
 Product Trend Analysis: The project identified key trends in product performance, enabling informed decisions regarding product offerings and promotions.
