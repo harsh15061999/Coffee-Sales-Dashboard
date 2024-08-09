@@ -1,5 +1,8 @@
 # Coffee-Sales-Dashboard
 
+<img width="1040" alt="Screenshot 2024-08-08 at 4 55 31 PM" src="https://github.com/user-attachments/assets/da3843ae-fe68-40b7-afa8-906429f48422">
+
+
 The Coffee Shop Dashboard project was a comprehensive data analysis initiative aimed at providing actionable insights into sales, customer behavior, and product trends across three countries. By leveraging meticulous data cleansing techniques, advanced Excel PivotTable functionality, and an interactive dashboard featuring pivot charts and dynamic slicers, the project delivered critical operational intelligence to inform business decision-making.
 
 Key Methodologies:
